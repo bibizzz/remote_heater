@@ -1,0 +1,10 @@
+change usr passwd
+add interface ssh + camera via sudo raspi-config
+update raspbian in case 
+set ip address
+pour le réglage réseau c'est toujours le bordel forcément. Là je suis passé en connexion uniquement en wifi avec l'adresse ip fixe 192.168.1.255 à GRe
+installer rpi gpio pour python + io
+camera web server recopié de la doc et semble fonctionner à merveille
+le composant chinois L298N marche plutôt bien. Une diode rouge grillée en faisant passer 12V dedans. Je pensais que ça tenait plus mais bon.*
+Faudra vérifier la consommation du bordel surtout à 12V si l'alim tient la puissance.
+solénoïde assez moyen, va falloir faire de la méca nickel.
